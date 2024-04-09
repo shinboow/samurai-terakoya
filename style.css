@@ -1,0 +1,29 @@
+#cases {
+  margin: 40px 0;
+  width: 100%;
+}
+ul {
+  display: flex;
+}
+li {
+  width: 33%;
+  margin: 20px;
+}
+.case-card {
+  background: #ffffff;
+  min-height: 400px;
+  text-shadow: 5px 5px 15px 0.2 black;
+}
+.case-img {
+  width: 100%;
+}
+.case-info {
+  padding: 10px 20px;
+}
+.case-card {
+  color: #2710d5;
+  font-size: 19px;
+}
+.case-content {
+  font-size: 14px;
+}
